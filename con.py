@@ -1,0 +1,4 @@
+we use two groups of words, the one is categoried by similarity,other is categoried by word frequency. 
+The first group is divided into pairs which are very similar, moderately similar, and not very similar. According to the results, we can figure out that with decresing similarity of words, the pearson correlation cofficiency of all methods is increasing. The cooccurence words of pair words is more similar, the two vector have more common key. 
+
+The second group is divided into words from a range of high frequency and a range of low frequency. The results shows that with the increasing counts of words, the pearson correlation cofficiency of cosine method reduce, while the pearson correlation cofficiency of two other methods not change a lot. The reason I think is that, higher words frequency, lower the value of PMI vector. Cosine method formula include product of two vector, the similarity coefficiency reduce more. This trend is consistent with the figure we get. 
