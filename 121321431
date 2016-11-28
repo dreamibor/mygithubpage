@@ -1,0 +1,5 @@
+#test_words = ["computer", "laptop", "pc","mouse","mac","cpu"]
+#test_words = ["speed", "brain","memory","workstation","run","data"]
+test_words = ["data","shoes", "sky","classic","drink","human"]
+#test_words = ["make", "hope","sister", "love", "meet","today"]
+#test_words = ["filter","spider", "formula","buffer","scar","soar"]
