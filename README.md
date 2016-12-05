@@ -1,2 +1,2 @@
-A HCI Coursework Homepage.  
+A Human-Computer Interaction Coursework Homepage.  
 A Github Page Test.
